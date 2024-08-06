@@ -34,4 +34,4 @@ https://github.com/deeplearningzerotoall/PyTorch
 # 12 DO it! 자연어 처리		
 https://ratsgo.github.io/nlpbook/docs/tutorial_links		
 https://github.com/ratsgo/nlpbook		
-![image](https://github.com/user-attachments/assets/27d792c7-af7e-46c6-9e5e-e5b3d67487e2)
+
